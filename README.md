@@ -114,6 +114,28 @@ A collection of papers on Hyperbolic embedding and Hyperbolic Neural Network.
     *Lucas Vinh Tran, Yi Tay, Shuai Zhang, Gao Cong, Xiaoli Li.*
 
 
+1. **Scalable Hyperbolic Recommender Systems.** WSDM 2020. [paper](https://arxiv.org/abs/1902.08648)
+
+    *Benjamin Paul Chamberlain, Stephen R. Hardwick, David R. Wardrope, Fabon Dzogang, Fabio Daolio, Saúl Vargas.*
+
+
+### [Word Embedding]()
+
+
+1. **Poincare Glove: Hyperbolic Word Embeddings.** ICLR 2019. [paper](https://openreview.net/forum?id=Ske5r3AqK7)
+
+    *Alexandru Tifrea, Gary Becigneul, Octavian-Eugen Ganea.*
+
+
+1. **Skip-gram word embeddings in hyperbolic space.** arxiv 2019. [paper](https://arxiv.org/abs/1809.01498)
+
+    *Matthias Leimeister, Benjamin J. Wilson.*
+
+
+
+
+
+
 
 
 
