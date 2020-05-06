@@ -98,9 +98,13 @@ A collection of papers on Hyperbolic embedding and Hyperbolic Neural Network.
 
     *Prodromos Kolyvakis, Alexandros Kalousis, Dimitris Kiritsis.*
 
-1. **Low-Dimensional Knowledge Graph Embeddings via Hyperbolic Rotations.** NIPS 2019. [paper](https://papers.nips.cc/paper/8733-hyperbolic-graph-convolutional-neural-networks.pdf)
+1. **Low-Dimensional Knowledge Graph Embeddings via Hyperbolic Rotations.** NIPS 2019 workshop. [paper](http://stanford.edu/~fredsala/Hazy-HyperbolicKGs.pdf)
 
     *Ines Chami, Adva Wolf, Frederic Sala, Christopher Ré.*
+
+1. **Low-Dimensional Hyperbolic Knowledge Graph Embeddings.** arxiv 2020 May. [paper](https://arxiv.org/abs/2005.00545)
+
+    *Ines Chami1, Adva Wolf, Da-Cheng Juan, Frederic Sala, Sujith Ravi, Christopher Re.*
 
 
 ## [Applications]()
@@ -132,8 +136,9 @@ A collection of papers on Hyperbolic embedding and Hyperbolic Neural Network.
     *Matthias Leimeister, Benjamin J. Wilson.*
 
 
+1. **Embedding text in hyperbolic spaces.** arxiv 2018. [paper](https://arxiv.org/abs/1806.04313)
 
-
+    *Bhuwan Dhingra, Christopher Shallue, Mohammad Norouzi, Andrew Dai, and George Dahl.*
 
 
 
